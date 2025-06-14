@@ -1,0 +1,13 @@
+{
+  "name": "html-php-project",
+  "version": "1.0.0",
+  "description": "A simple HTML/PHP project",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'No build process needed for HTML/PHP project'",
+    "start": "echo 'Please use a local server like XAMPP or WAMP to run PHP files'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
